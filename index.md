@@ -12,6 +12,12 @@ layout: default
     I  also organized Reading Group with the help of <a href="http://vision2.lems.brown.edu/graduateStudents/hongyi/Hongyi%20Fan.html"  >Mr. Hongyi Fan (now in Brown Uni.)</a> in my lab.
 </p>
 
+# Interests
+* Deep Learning such as Generative Adversarial Nets
+* Saliency Detection; Recognition
+* Probabilitic Graphical Model
+* Image and Video processing
+
 # News
 <ul>
 <li> <b style="color:red">July. 2018</b>: I would be graduate this Fall, 2018, with Bachelor of Engineering in Electronic and Computer Engineering.</li>
