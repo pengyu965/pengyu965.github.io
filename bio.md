@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+
+# Short Bio
+
+- *B.Eng*, Uni. of Electronic Science &amp; Technology of China, Sept. 2014--July. 2018
+
+- *Research Assistant*, Engineering Laboratory of Optoelectrionics System, Prof. Ping Zhang, June.2016--Now.
+
+# Awards
+
+- **1st Prize**, Contemporary Mathematical Contest in Modeling,Sept 2016
+
+- **2nd Prize**, 2016 UESTC Mathematical Contest in Modeling	Jul 2016
+
+- **1st Prize**, The Third National Spoken English Competition (NSEC),Nov 2014
+
+- **1st Prize (Top 5%)**,	“Langchao” Enterprise scholarship (Only granted for two students),Oct 2017
+
+- **Excellent Leadership**,	Minister of Public Relations Department in Student Union,Oct 2017
+
+- **Excellent Individual**,	Summer Social Practice, UESTC	Oct 2015
+
+
+

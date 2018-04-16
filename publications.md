@@ -5,7 +5,6 @@ layout: default
 # Publications
 <b> </b>
 
-<b> </b>
 
 <ol>
 <li style="text-align:justify">P. Zhang, <u><b>P. Yan</b></u>, J. Wu. Unsupervised Saliency Detection based on Multi-Scale Architecture and Graphical Model. <i>ICME</i> 2018. <a href="assets/myfile/IEEE_Trans.pdf">(Rejeced for no comparison with deep learning. Plan to resubmitt to IEEE.journel)</a></li>
