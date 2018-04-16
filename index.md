@@ -11,7 +11,7 @@ layout: default
 </p>
 
 ## News
-<u>
+<ul>
 <li> I would be graduate this Fall, 2018, with Bachelor of Engineering in Electronic and Computer Engineering.</li>
 <li> I finished my 3rd year study with GPA 4.0/4.0, ranked 9/192. </li>
-</u>
+</ul>
