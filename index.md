@@ -13,13 +13,14 @@ layout: default
 </p>
 
 # Interests
-* Deep Learning such as Generative Adversarial Nets
-* Saliency Detection; Recognition
-* Probabilitic Graphical Model
-* Image and Video processing
+* Deep learning such as Generative Adversarial Nets
+* Machine Learning; Probabilitic Graphical Model
+* Computer Vision such as saliency detection and recognition
+* Application of deep learning in vision and image processing
 
 # News
-<ul>
-<li> <b style="color:red">July. 2018</b>: I would be graduate this Fall, 2018, with Bachelor of Engineering in Electronic and Computer Engineering.</li>
-<li> <b style="color:red">Sept. 2017</b>: I finished my 3rd year study with <b>GPA 4.0/4.0</b>, ranked <b>9/192</b>. </li>
+
+<ul style="font-size:12pt">
+<li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I would be graduate this Fall, 2018, with Bachelor of Engineering in Electronic and Computer Engineering.</li>
+<li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">Sept. 2017</b>: I finished my 3rd year study with <b>GPA 4.0/4.0</b>, ranked <b>9/192</b>. </li>
 </ul>
