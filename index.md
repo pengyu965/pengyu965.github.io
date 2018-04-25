@@ -13,10 +13,10 @@ layout: default
 </p>
 
 # Interests
-* Deep learning such as Generative Adversarial Nets
-* Machine Learning; Probabilitic Graphical Model
-* Computer Vision such as saliency detection and recognition
-* Application of deep learning in vision and image processing
+* Computer Vision-- Saliency Detection, Recognition
+* Image and Video Processing
+* Machine Learning and Deep learning
+* Probabilistic Graphical Model
 
 # News
 
