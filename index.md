@@ -21,8 +21,7 @@ layout: default
 # News
 
 <ul style="font-size:12pt">
-<li style="list-style-image: url(/assets/img/new.jpg)">
-I would join the <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a> this Fall 2018, as a PhD student in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a>.
+<li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I would join the <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a> this Fall 2018, as a PhD student in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a>.
 </li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I would be graduate this Fall, 2018, with Bachelor of Engineering in Electronic and Computer Engineering.</li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">Sept. 2017</b>: I finished my 3rd year study with <b>GPA 4.0/4.0</b>, ranked <b>9/192</b>. </li>
