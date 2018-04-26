@@ -5,9 +5,9 @@ layout: default
 
 # Short Bio
 
-- *B.Eng*, Uni. of Electronic Science &amp; Technology of China, Sept. 2014--July. 2018
-
 - *Research Assistant*, Engineering Laboratory of Optoelectrionics System, Prof. Ping Zhang, June.2016--Now.
+
+- *B.Eng*, Uni. of Electronic Science &amp; Technology of China, Sept. 2014--July. 2018
 
 # Awards
 
