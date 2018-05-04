@@ -7,7 +7,7 @@ layout: default
 
 
 <ol>
-<li style="text-align:justify">P. Zhang, <u><b>P. Yan</b></u>, J. Wu. Unsupervised Saliency Detection based on Multi-Scale Architecture and Graphical Model. <i>ICME</i> 2018. <a href="">(Rejeced for no comparison with deep learning. Plan to resubmitt to IEEE.journel)</a></li>
+<li style="text-align:justify">P. Zhang*, <u><b>P. Yan</b></u>, J. Wu. Unsupervised Saliency Detection based on Multi-Scale Architecture and Graphical Model. <a href="">(To be submitted to IEEE. Signal Processing Letter)</a></li>
 &nbsp;
 <li style="text-align:justify">P. Zhang, J. Wang, <u><b>P. Yan</b></u>. An infrared weak target detection based on CNN. CN Patent office,  App. Number: 201710758679.4.</li>
 &nbsp;
