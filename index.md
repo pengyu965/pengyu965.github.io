@@ -21,8 +21,8 @@ layout: default
 # News
 
 <ul style="font-size:12pt">
-<!-- <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I will be entering the <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> in <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a> as a <b>PhD</b> student in Fall 2018.
-</li> -->
+<li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I will be entering the <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> in <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a> as a <b>PhD</b> student in Fall 2018.
+</li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I will graduate in Fall, 2018, with a Bachelor degree of Engineering in Electronic and Computer Engineering, UESTC.</li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">Sept. 2017</b>: I finished my 3rd year study with <b>GPA 4.0/4.0</b>, ranked <b>9/192</b>. </li>
 </ul>
