@@ -3,14 +3,15 @@ layout: default
 ---
 
 
-# Experience
+# Educations
 
-- *Research Assistant*, Engineering Laboratory of Optoelectrionics System, Prof. Ping Zhang, June.2016--Now.
+- *PhD, Research Assistant*, Department of Computer Science and Engineering, University at Buffalo, Aug. 2018 -- Now
 
 - *B.Eng*, Uni. of Electronic Science &amp; Technology of China, Sept. 2014--July. 2018
 
 # Awards
 
+- **Excellent Graduation Paper**, University of Electronic Science and Technology of China, Jun 2018 
 - **1st Prize**, Contemporary Mathematical Contest in Modeling,Sept 2016 
 - **2nd Prize**, 2016 UESTC Mathematical Contest in Modeling	Jul 2016 
 - **1st Prize**, The Third National Spoken English Competition (NSEC),Nov 2014

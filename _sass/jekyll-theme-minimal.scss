@@ -16,6 +16,7 @@ body {
   font-weight:400;
 
 
+
 }
 
 
@@ -593,6 +594,7 @@ footer {
     font-size:12pt;
 
     color:#444;
+    
 
   
 }
@@ -732,7 +734,9 @@ vertical-align:top
 }
 
 body{ 
-margin:0;
+// margin:0;
+margin-left:5%;
+margin-right:5%; //Changing the margin of
 padding:0;
 color:#494e52;
 font-family:-apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;

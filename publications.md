@@ -3,11 +3,9 @@ layout: default
 ---
 
 # Publications
-<b> </b>
 
-
-<ol>
-<li style="text-align:justify">P. Zhang*, <u><b>P. Yan</b></u>, J. Wu. Unsupervised Saliency Detection in 3D video based on Multi-scale Segmentation and Refinement. <a href="assets/myfile/IEEEspl.pdf">(Submitted to IEEE. Signal Processing Letter)</a></li>
+<ol style="font-size:12pt">
+<li style="text-align:justify">P. Zhang*, <u><b>P. Yan</b></u>, J. Wu. Unsupervised Saliency Detection in 3D video based on Multi-scale Segmentation and Refinement. </li>
 &nbsp;
 <li style="text-align:justify">P. Zhang, J. Wang, <u><b>P. Yan</b></u>. An infrared weak target detection based on CNN. CN Patent office,  App. Number: 201710758679.4.</li>
 &nbsp;

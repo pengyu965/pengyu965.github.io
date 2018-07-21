@@ -528,7 +528,8 @@ textarea {
   vertical-align: top; }
 
 body {
-  margin: 0;
+  margin-left: 5%;
+  margin-right: 5%;
   padding: 0;
   color: #494e52;
   font-family: -apple-system,".SFNSText-Regular","San Francisco","Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
