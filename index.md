@@ -22,7 +22,7 @@ layout: default
 # News
 
 <ul style="font-size:12pt">
-<li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">July. 2018</b> The paper '<i>Unsupervised Saliency Detection in 3D video based on Multi-scale Segmentation and Refinement</i>' has been <font color="red"><i>ACCEPTED</i></font> by IEEE. Signal Processing Letter.</li>
+<li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">July. 2018</b> The paper '<i>Unsupervised Saliency Detection in 3-D-Video Based on Multiscale Segmentation and Refinement</i>' has been <font color="red"><i>ACCEPTED</i></font> by IEEE. Signal Processing Letter.</li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">July. 2018</b>: I graduated from University of Electronic Science and Technology of China, with Bachelor Degree of Engineering.</li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">May. 2018</b>: I will be entering the <a href="https://engineering.buffalo.edu/computer-science-engineering.html">CSE department</a> in <a href="https://www.buffalo.edu/">University at Buffalo, SUNY</a>.
 </li>
@@ -32,7 +32,7 @@ layout: default
 # Publications
 
 <ol style="font-size:12pt">
-<li style="text-align:justify">P. Zhang, <b>P. Yan</b>, J. Wu, J. Liu and F. Shen, "<u><i>Unsupervised Saliency Detection in 3D video based on Multi-scale Segmentation and Refinement,</i></u>" in IEEE Signal Processing Letters. </li>
+<li style="text-align:justify">P. Zhang, <b>P. Yan</b>, J. Wu, J. Liu and F. Shen, <u><i>"Unsupervised Saliency Detection in 3-D-Video Based on Multiscale Segmentation and Refinement,"</i></u> in IEEE Signal Processing Letters, vol. 25, no. 9, pp. 1384-1388, Sept. 2018. </li>
 
 <li style="text-align:justify">P. Zhang, J. Wang, <b>P. Yan</b>. <u><i>An infrared weak target detection based on CNN.</i></u> CN Patent office,  App. Number: 201710758679.4.</li>
 
