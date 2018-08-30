@@ -6,7 +6,7 @@ layout: default
 # About Me
 
 <p style="text-align:justify">
-    I am now a first-year graduate student supervised by Professor David Doermann, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo.
+    I am a first-year graduate student (PhD Program) advised by <a href="https://cse.buffalo.edu/~doermann/">Dr. David Doermann</a>, in <a href="https://engineering.buffalo.edu/computer-science-engineering.html">Department of Computer Science and Engineering</a>, State University of New York at Buffalo.
 </p>
 
 <p style="text-align:justify">
