@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 # Educations
 
 - *PhD, Research Assistant*, Department of Computer Science and Engineering, University at Buffalo, Aug. 2018 -- Now
