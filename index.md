@@ -28,13 +28,3 @@ layout: default
 </li>
 <li style="list-style-image: url(/assets/img/new.jpg)"><b style="color:red">Sept. 2017</b>: I finished my 3rd year study with <b>GPA 4.0/4.0</b>, ranked <b>9/192</b>. </li>
 </ul>
-
-# Publications
-
-<ol style="font-size:12pt">
-<li style="text-align:justify">P. Zhang, <b>P. Yan</b>, J. Wu, J. Liu and F. Shen, <u><i>"Unsupervised Saliency Detection in 3-D-Video Based on Multiscale Segmentation and Refinement,"</i></u> in IEEE Signal Processing Letters, vol. 25, no. 9, pp. 1384-1388, Sept. 2018. <a href="assets/myfile/Unsupervised Saliency Detection in 3-D-Video Based on Multiscale Segmentation and Refinement.pdf">[PDF]</a></li>
-
-<li style="text-align:justify">P. Zhang, J. Wang, <b>P. Yan</b>. <u><i>An infrared weak target detection based on CNN.</i></u> CN Patent office,  App. Number: 201710758679.4.</li>
-
-<li style="text-align:justify"><b>P. Yan</b>, C. Fan, F. Sun. <u><i>Optimization Model of Design for Mooring Chain System.</i></u> Tianfu mathematics, 2017, (23):63-66 (The paper published during mathematical competition). </li>
-</ol>

@@ -3,13 +3,19 @@ layout: default
 ---
 # Contact
 
-## Address
-No.4, Section 2, North Jianshe Road \\
-Chenghua Strict, Chengdu, Sichuan Province
+<br>
 
+<p style="font-size:16pt;text-align:center">
+AI Lab
+<br>
+113X Davis Hall
+<br>
+Buffalo, NY 14260-2500
 
-## Email
-<a href="mailto:py.yan965@gmail.com">py.yan965@gmail.com</a> 
+<br>
+<br>
 
-## Phone
-(86)13408531552
+Phone: (716)907-3684
+<br>
+Email: <a href="mailto:py.yan965@gmail.com">py.yan965@gmail.com</a> 
+</p>

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Research Projects
+<b style="font-size:18pt"><i>Undergraduate Research Projects</i></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="color:red; text-decoration:underline" href="./projects"><i>[back]</i></a>
 
 ## Graduation Thesis
 "Saliency Detection based on GANs" \\
@@ -27,3 +27,5 @@ Funded Engineering Project -- Advised by Prof.Zhang
 <img src="assets/myimg/pic2.png" align="right" width="55%" hspace="5" vspace="5">
 Since the target is small and infrared, the feature of the target is very weak, which caused the great difficulty to recoginize the object. Thus a Convolutional Neural Networks was designed to utilize the limited feature with a high efficiency.
 </p>
+
+<a style="color:red; text-decoration:underline" href="./projects"><i>[back]</i></a>
