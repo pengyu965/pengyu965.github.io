@@ -29,7 +29,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="assets/css/style.css">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -43,7 +43,7 @@
                   <div class="navicon"></div>
                 </button>
                 <p style="float: left;margin-bottom: -40pt">
-                  <img src="/assets/img/Buffalo_CSE.png" style="width:50%">
+                  <img src="assets/img/Buffalo_CSE.png" style="width:50%">
                 </p>
                 <ul class="visible-links">
                   <li class="masthead__menu-item"><a href="index">Home</a></li>
@@ -59,7 +59,7 @@
 
     <div class="wrapper">
       <header>
-        <h1 style="font-size: 30px"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1 style="font-size: 30px"><a href="index">{{site.title}}</a></h1>
         
         <!-- <p style="font-size: 30px; color:#52adc8; font-weight: 600;text-align: center">Pengyu Yan</p> -->
 
@@ -143,7 +143,7 @@
       </footer>
     </div>
     
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <!-- <script src="{{ "assets/js/scale.fix.js" | relative_url }}"></script> -->
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115899430-2"></script>
